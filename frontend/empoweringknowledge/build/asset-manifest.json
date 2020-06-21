@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33cbb16d.chunk.css",
+    "main.js": "/static/js/main.aef9536a.chunk.js",
+    "main.js.map": "/static/js/main.aef9536a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b58ff6fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b58ff6fd.js.map",
+    "static/css/2.484825d3.chunk.css": "/static/css/2.484825d3.chunk.css",
+    "static/js/2.ba25364c.chunk.js": "/static/js/2.ba25364c.chunk.js",
+    "static/js/2.ba25364c.chunk.js.map": "/static/js/2.ba25364c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2900651fa3be7200cb6c94ba610f542f.js": "/precache-manifest.2900651fa3be7200cb6c94ba610f542f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.484825d3.chunk.css.map": "/static/css/2.484825d3.chunk.css.map",
+    "static/css/main.33cbb16d.chunk.css.map": "/static/css/main.33cbb16d.chunk.css.map",
+    "static/media/CFM_BarChart.jpg": "/static/media/CFM_BarChart.addd55df.jpg",
+    "static/media/Congress.jpeg": "/static/media/Congress.074049d4.jpeg",
+    "static/media/DonationsBarChart.jpg": "/static/media/DonationsBarChart.beac9ac9.jpg",
+    "static/media/Legislation.jpeg": "/static/media/Legislation.16f316f0.jpeg",
+    "static/media/ScatterPlot.jpg": "/static/media/ScatterPlot.4f7ef2ed.jpg",
+    "static/media/Windmills.jpeg": "/static/media/Windmills.53abc765.jpeg",
+    "static/media/bar_chart.jpg": "/static/media/bar_chart.1e60c651.jpg",
+    "static/media/briana.jpg": "/static/media/briana.8581a748.jpg",
+    "static/media/donations_chart.jpg": "/static/media/donations_chart.484faf11.jpg",
+    "static/media/edwin.jpeg": "/static/media/edwin.3bbb6598.jpeg",
+    "static/media/homepage.jpg": "/static/media/homepage.cadf2511.jpg",
+    "static/media/ojas.jpg": "/static/media/ojas.3d569f6a.jpg",
+    "static/media/ryan.jpg": "/static/media/ryan.a3f0d0f3.jpg",
+    "static/media/travis.jpeg": "/static/media/travis.62af6126.jpeg"
+  }
+}
